@@ -1,0 +1,11 @@
+#action-table{
+    display: flex;
+    justify-content: space-between;
+}
+#action-table input{
+    width: 40%;
+    margin-left: 20px;
+}
+#action-table a{
+    margin-right: 20px;
+}
